@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "0 */12 * * *" # Roda a cada 12 horas
   workflow_dispatch: # Permite rodar manualmente
+permissions:
+  contents: write # Permite escrita no repositório
 jobs:
   build:
     runs-on: ubuntu-latest
