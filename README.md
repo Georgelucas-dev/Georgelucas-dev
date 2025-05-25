@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/matrix-356024.jpeg" alt="Banner" width="2000" height="300"/>
+  <img src="images/Star Wars VII.jpeg" alt="Banner" width="2000" height="300"/>
 </div>
 
 # Fala aí! Eu sou o George Lucas 👋
