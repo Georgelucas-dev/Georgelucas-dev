@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="images/Star Wars VII.jpeg" alt="Banner" width="1000" height="200"/>
-</div>
-
 # Fala aí! Eu sou o George Lucas 👋
 
 Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
