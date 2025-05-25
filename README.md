@@ -24,5 +24,9 @@ Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte tra
 - 💼 [LinkedIn](https://www.linkedin.com/in/george-lucas-241680367/)
 - ✉️ [E-mail](mailto:george.pires2025@gmail.com)
 
-![Snake animation](https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
