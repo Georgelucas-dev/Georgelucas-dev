@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="images/matrix-356024.jpeg" alt="Banner" width="800"/>
+</div>
 # Fala aí! Eu sou o George Lucas 👋
 
 Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
