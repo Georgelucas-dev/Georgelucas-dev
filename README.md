@@ -1,16 +1,26 @@
-## Hi there 👋
+# Fala aí! Eu sou o George Lucas 👋
 
-<!--
-**Georgelucas-dev/Georgelucas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
 
-Here are some ideas to get you started:
+## 🔍 Sobre mim
+- 💻 Focado em desenvolvimento web, especialmente no Front-end.
+- 🌱 Atualmente aprendendo HTML, CSS e JavaScript.
+- 🏓 Fun fact: sou viciado em tênis de mesa — e não é só hobby, jogo bem mesmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou explorando
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" style="margin-right: 10px;" />
+</p>
+
+
+
+## 📬 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/george-lucas-241680367/)
+- ✉️ [E-mail](mailto:george.pires2025@gmail.com)
+
