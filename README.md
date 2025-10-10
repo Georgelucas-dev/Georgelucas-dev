@@ -2,40 +2,29 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
   <samp>
       <br>
-      Olá! Me chamo <b>George Lucas</b>
+       Olá! Me chamo <b>George Lucas</b>
   </samp>
 </div>
-
+<br>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=fff&width=900&size=33&center=true&lines=;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Seja+Bem+vindo!" alt="Typing SVG"/>
 </div>
 
-Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
+Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais.
 
-## 🔍 Sobre mim
-- 💻 Focado em desenvolvimento web, especialmente no Front-end.
-- 🌱 Atualmente aprendendo HTML, CSS e JavaScript.
-- 🏓 Fun fact: sou viciado em tênis de mesa — e não é só hobby, jogo bem mesmo.
+## Sobre mim
+- Focado em desenvolvimento web, especialmente no Front-end.
+- Atualmente aprendendo HTML, CSS e JavaScript.
+- Fun fact: sou viciado em tênis de mesa — e não é só hobby, jogo bem mesmo.
 
-## 🛠️ Tecnologias que estou explorando
+## Skills
+[![MY Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git&theme=light)](https://skillicons.dev)
+<hr>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" style="margin-right: 10px;" />
-</p>
-
-
-
-## 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/george-lucas-241680367/)
-- ✉️ [E-mail](mailto:george.pires2025@gmail.com)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georgelucas-dev&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgelucas-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake-dark.svg" />
