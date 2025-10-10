@@ -1,4 +1,17 @@
-# Fala aí! Eu sou o George Lucas 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000"/>
+
+<div align="center">
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Olá! Me chamo <b>George Lucas</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=fff&width=900&size=33&center=true&lines=;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Seja+Bem+vindo!" alt="Typing SVG"/>
+</div>
 
 Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
 
@@ -30,3 +43,5 @@ Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte tra
   <img alt="github-snake" src="https://github.com/Georgelucas-dev/Georgelucas-dev/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000&section=footer"/>
