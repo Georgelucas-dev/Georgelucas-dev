@@ -23,8 +23,5 @@ Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte tra
 [![MY Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git&theme=light)](https://skillicons.dev)
 <hr>
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georgelucas-dev&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgelucas-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000&section=footer"/>
