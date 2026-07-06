@@ -1,27 +1,32 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000"/>
 
-<div align="center">
-  
-  <samp>
-      <br>
-       Olá! Me chamo <b>George Lucas</b>
-  </samp>
-</div>
-<br>
+
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=fff&width=900&size=20&center=true&lines=;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Seja+Bem+vindo!" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=900&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=859&lines=Ol%C3%A1;Me+chamo+George+Lucas;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Seja+bem+vindo!" alt="Typing SVG" /></a>
 </div>
 
-Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais.
+
 
 ## Sobre mim
-- Focado em desenvolvimento web, especialmente no Front-end.
-- Atualmente aprendendo HTML, CSS e JavaScript.
-- Fun fact: sou viciado em tênis de mesa — e não é só hobby, jogo bem mesmo.
 
-## Skills
-[![MY Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git&theme=light)](https://skillicons.dev)
-<hr>
+- Estudante de Técnico em Desenvolvimento de Sistemas (IFSC)
+- Focado em Desenvolvimento Web, principalmente **Front-end**
+- Atualmente estudando **HTML, CSS, JavaScript** e aprofundando meus conhecimentos em **React**
+- Aprendendo boas práticas de desenvolvimento, Git/GitHub e lógica de programação
+- Buscando minha primeira oportunidade como **Estagiário** ou **Jovem Aprendiz** na área de tecnologia
 
+## Tecnologias
+
+### Já utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light)](https://skillicons.dev)
+
+### Estudando atualmente
+
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,python&theme=light)](https://skillicons.dev)
+
+---
+
+Gosto de aprender construindo projetos. Cada repositório representa uma etapa da minha evolução como desenvolvedor.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000&section=footer"/>
