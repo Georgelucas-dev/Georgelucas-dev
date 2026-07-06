@@ -23,7 +23,7 @@
 
 ### Estudando atualmente
 
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,python&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,typescript,nodejs,python&theme=light)](https://skillicons.dev)
 
 ---
 
