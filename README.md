@@ -10,7 +10,7 @@
 ## Sobre mim
 
 - Estudante de Técnico em Desenvolvimento de Sistemas (IFSC)
-- Focado em Desenvolvimento Web, principalmente **Front-end**
+- Focado em Desenvolvimento Full Stack
 - Atualmente estudando **JavaScript e TypeScript** e aprofundando meus conhecimentos em **React**
 - Aprendendo boas práticas de desenvolvimento, Git/GitHub e lógica de programação
 - Buscando minha primeira oportunidade como **Estagiário** ou **Jovem Aprendiz** na área de tecnologia
