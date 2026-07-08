@@ -9,11 +9,11 @@
 
 ## Sobre mim
 
-- Estudante de Técnico em Desenvolvimento de Sistemas (IFSC)
-- Focado em Desenvolvimento Full Stack
-- Atualmente estudando **JavaScript e TypeScript** e aprofundando meus conhecimentos em **React**
-- Aprendendo boas práticas de desenvolvimento, Git/GitHub e lógica de programação
-- Buscando minha primeira oportunidade como **Estagiário** ou **Jovem Aprendiz** na área de tecnologia
+Estudante de Técnico em Desenvolvimento de Sistemas (IFSC)
+Focado em Desenvolvimento Full Stack
+Atualmente estudando **JavaScript e TypeScript** e aprofundando meus conhecimentos em **React**
+Aprendendo boas práticas de desenvolvimento, Git/GitHub e lógica de programação
+Buscando minha primeira oportunidade como **Estagiário** ou **Jovem Aprendiz** na área de tecnologia
 
 ## Tecnologias
 
@@ -26,7 +26,5 @@
 [![Learning](https://skillicons.dev/icons?i=react,typescript,nodejs,python&theme=light)](https://skillicons.dev)
 
 ---
-
-Gosto de aprender construindo projetos. Cada repositório representa uma etapa da minha evolução como desenvolvedor.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000&section=footer"/>
